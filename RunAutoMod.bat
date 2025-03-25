@@ -1,0 +1,1 @@
+start "AutoMod Console" python "%~dp0\AutoMod.py"
